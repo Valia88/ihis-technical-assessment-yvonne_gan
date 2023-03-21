@@ -76,7 +76,7 @@ target/
 
 # Jupyter Notebook
 .ipynb_checkpoints
-draft.ipynb
+(not to share) draft_jupyter_notebook
 
 # IPython
 profile_default/
