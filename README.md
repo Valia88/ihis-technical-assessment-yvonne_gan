@@ -20,17 +20,17 @@ Yvonne Gan</br>
 </br>
 
 ## **Key submission files:** 
-[IHiS_Technical Test_Yvonne Gan.xlsx](https://github.com/Valia88/ihis-technical-assessment-yvonne_gan/blob/version_01/IHiS_Technical%20Test_Yvonne%20Gan.xlsx) & [working_file.ipynb(Source Code)](https://github.com/Valia88/ihis-technical-assessment-yvonne_gan/blob/version_01/working_file.ipynb)
+[IHiS_Technical Test_Yvonne Gan.xlsx](https://github.com/Valia88/ihis-technical-assessment-yvonne_gan/blob/main/IHiS_Technical%20Test_Yvonne%20Gan.xlsx) & [working_file.ipynb(Source Code)](https://github.com/Valia88/ihis-technical-assessment-yvonne_gan/blob/main/working_file.ipynb)
 
 </br>
 
 ## **Breakdown**
 Repository name: Valia88/ihis-technical-assessment-yvonne_gan 
 
-- [01_source_files](https://github.com/Valia88/ihis-technical-assessment-yvonne_gan/tree/version_01/01_source_files) - Original files received from Recruitment Team
+- [01_source_files](https://github.com/Valia88/ihis-technical-assessment-yvonne_gan/tree/main/01_source_files) - Original files received from Recruitment Team
     - Instruction.doc
     - Technical Test.xls
-- [02_exported_worksheet](https://github.com/Valia88/ihis-technical-assessment-yvonne_gan/tree/version_01/02_exported_worksheet) - Individual exported excel files
+- [02_exported_worksheet](https://github.com/Valia88/ihis-technical-assessment-yvonne_gan/tree/main/02_exported_worksheet) - Individual exported excel files
     - data.xlsx 
     - nric_not_found.xlsx
     - study_data_final.xlsx
